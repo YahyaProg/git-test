@@ -1,6 +1,8 @@
-header{
-    background-color: red;
+p.p1{
+    color: red;
+    text-decoration:underline;
+    text-shadow: 20px 10px 50px red;
 }
-.slider{
-    background-color: yellow;
+*{
+    font-size: 20px;
 }
